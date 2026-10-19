@@ -3,9 +3,8 @@ description: >-
   Persian (Jalali / Shamsi) calendar toolkit for Flutter: date conversion,
   formatting, Iranian holidays, Hijri dates and customizable date pickers.
 version: 0.1.0
-# homepage: https://github.com/<your-username>/persian_calendar_kit
-# repository: https://github.com/<your-username>/persian_calendar_kit
-# issue_tracker: https://github.com/<your-username>/persian_calendar_kit/issues
+repository: https://github.com/Mohamadkhadem/persian_calendar_kit
+issue_tracker: https://github.com/Mohamadkhadem/persian_calendar_kit/issues
 
 topics:
   - calendar
