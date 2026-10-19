@@ -1,0 +1,46 @@
+name: persian_calendar_kit
+description: >-
+  Persian (Jalali / Shamsi) calendar toolkit for Flutter: date conversion,
+  formatting, Iranian holidays, Hijri dates and customizable date pickers.
+version: 0.1.0
+# homepage: https://github.com/<your-username>/persian_calendar_kit
+# repository: https://github.com/<your-username>/persian_calendar_kit
+# issue_tracker: https://github.com/<your-username>/persian_calendar_kit/issues
+
+topics:
+  - calendar
+  - date-picker
+  - jalali
+  - persian
+  - shamsi
+
+screenshots:
+  - description: Persian calendar with holidays and Gregorian / Hijri days.
+    path: screenshots/1-calendar.jpg
+  - description: Date picker dialog.
+    path: screenshots/3-date-picker-dialog.jpg
+  - description: Date range picker.
+    path: screenshots/4-range-picker.jpg
+  - description: Week view.
+    path: screenshots/9-week-view.jpg
+  - description: Custom theme with a range selection.
+    path: screenshots/5-custom-theme-range.jpg
+  - description: English, left-to-right layout.
+    path: screenshots/7-english-ltr.jpg
+  - description: Conversions between Jalali, Gregorian and Hijri.
+    path: screenshots/10-conversions.jpg
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:

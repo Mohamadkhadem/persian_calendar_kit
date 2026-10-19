@@ -1,0 +1,19 @@
+name: persian_calendar_kit_example
+description: Demonstrates how to use the persian_calendar_kit package.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  persian_calendar_kit:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
